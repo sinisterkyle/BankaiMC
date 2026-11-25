@@ -1,2 +1,4 @@
-# BankaiMC
-BankaiMC brings Shikai and Bankai into Minecraft. Pick up any sword or one of BankaiMC's own katanas and start fighting.
+# BankaiMC - Online
+This Mod was designed and implemented by two people, xky9kx and AllenPlays for the server. .
+
+SinisterPrison.net - 1.20.1 Modded Online (SINISTER ZOMBIES MINECRAFT APOCALYPSE
